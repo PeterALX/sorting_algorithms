@@ -21,5 +21,4 @@ void print_list(const listint_t *list);
 void bubble_sort(int *array, size_t size);
 void swap(int *arr, int idx1, int idx2);
 
-
 #endif
