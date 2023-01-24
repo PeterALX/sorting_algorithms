@@ -1,12 +1,10 @@
 #ifndef __SORT__
 #define __SORT__
 
-#include <stdio.h>
 #include <stdlib.h>
 
 /**
  * struct listint_s - Doubly linked list node
- *
  * @n: Integer stored in the node
  * @prev: Pointer to the previous element of the list
  * @next: Pointer to the next element of the list
