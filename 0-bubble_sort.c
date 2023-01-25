@@ -35,7 +35,7 @@ void bubble_sort(int *array, size_t size)
 /**
  * swap - swap the value of two indices in an array
  * @arr: the array
- * @idx1: index 1 
+ * @idx1: index 1
  * @idx2: index 2
  */
 void swap(int *arr, int idx1, int idx2)
